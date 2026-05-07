@@ -2,7 +2,7 @@
 
 Brain Game is a fun and interactive web game where players solve riddle-like questions and tricky challenges. The game is made to test thinking skills, creativity, and problem-solving ability. Every level contains different types of questions that may look simple at first but require careful thinking to solve correctly.
 
-The website contains multiple pages connected together to create a complete game experience. Players can move through levels, get help if they are stuck, and explore different sections of the website. The project was created as a fun learning experience while also improving website development skills.
+The website contains multiple pages connected together to create a complete game experience. Players can move through levels, get help if they are stuck, and explore different sections of the website. The project was created as a fun learning experience while also improving web dev skills.
 
 ---
 
@@ -12,9 +12,6 @@ The website contains multiple pages connected together to create a complete game
 * Tricky and fun questions
 * Different levels and challenges
 * Multiple connected pages
-* Interactive gameplay experience
-* Simple and easy-to-use design
-* Level completion system
 
 ---
 
@@ -61,17 +58,6 @@ The website was also made for learning and practice purposes to improve skills i
 The project focuses on creating a simple but enjoyable game experience using multiple pages and interactive elements.
 
 ---
-
-# Technologies Used
-
-* HTML
-* CSS
-* JavaScript
-
-These technologies were used to build the structure, design, and functionality of the website.
-
----
-
 # Creator
 
 The website was made by **Nirjal Acharya** from Nepal 🇳🇵, the country of the Himalayas. He enjoys making websites, learning web development, and creating interactive projects. This project was made as part of his learning journey in website development and design.
@@ -80,4 +66,4 @@ The website was made by **Nirjal Acharya** from Nepal 🇳🇵, the country of t
 
 # Future Plans
 
-More levels, tricky questions, and new game ideas may be added in the future to make the game larger, more challenging, and more enjoyable for players.
+More levels, tricky questions, and new game ideas may be added in the future to make the game larger, more challenging, and more enjoyable for players. He is now deciding to work on other. But he will also work on it.
